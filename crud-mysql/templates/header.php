@@ -25,6 +25,12 @@
                     <li class="nav-item">
                         <a href="../mapel/index.php" class="nav-link">Mapel</a>
                     </li>
+                    <li class="nav-item">
+                        <a href="../tugas/index.php" class="nav-link">Tugas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="../galeri/index.php" class="nav-link">Galeri</a>
+                    </li>
                 </ul>
             </div>
         </div>

@@ -23,7 +23,7 @@
 
         <div class="mb-3">
             <label for="tanggal_dikumpulkan">Tanggal Dikumpulkan</label>
-            <input type="text" name="tanggal_dikumpulkan" id="tanggal_dikumpulkan" class="form-control" required>
+            <input type="date" name="tanggal_dikumpulkan" id="tanggal_dikumpulkan" class="form-control" required>
         </div>
 
         <div class="mb-3">
